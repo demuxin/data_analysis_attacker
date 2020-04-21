@@ -1,6 +1,8 @@
-在Github上虽然能够直接加载 ipynb 文件，但是速度很慢，并且容易加载失败。
+该仓库用于记录我在学习数据分析过程中，收集的资料、完成的项目、学习的心得等。
 
-利用 [nbviewer](https://nbviewer.jupyter.org/) 可以快速加载ipynb文件。点击 [该链接](https://nbviewer.jupyter.org/github/zxdefying/data_analysis_attacker/blob/master/LendingClub风险分析/LendingClub.ipynb) 快速进入LeningClub信贷数据风险分析报告。
+
+
+- [查看 LeningClub 信贷数据风险分析报告](https://nbviewer.jupyter.org/github/zxdefying/data_analysis_attacker/blob/master/LendingClub风险分析/LendingClub.ipynb)
 
 
 
